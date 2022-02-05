@@ -8,9 +8,21 @@
 
 body {
     background-color: rgb(83, 97, 124);
-    padding: 50px 50px 0 50px;
 }
 
-header {
+/* this is where the header starts */
 
+header {
+    background-color: rgb(31, 22, 70);
+    padding: 50px 50px;
+    color: white;
+   
+}
+
+header h1 {
+    margin-bottom: 20px;
+}
+
+.projects-list {
+    padding: 30px 50px;
 }
